@@ -9,7 +9,7 @@ The script uses the following STIG group IDs:
 4. V-238327
 5. V-238363
 ###################################
-Github: https://github.com/Guard199/IS-480/STIGs/README.txt
+Github: https://github.com/Guard199/IS-480
 ###################################
 Usage:
 
